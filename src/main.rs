@@ -1,5 +1,8 @@
-mod print; // "Import print.rs file and execute command"
+// mod print; // "Import print.rs file and execute command"
+// mod vars;
+// mod types;
+mod strings;
 
 fn main() {
-    print::run();
+    strings::run();
 }
