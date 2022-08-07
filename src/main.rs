@@ -2,8 +2,10 @@
 // mod vars;
 // mod types;
 // mod strings;
-mod arrays;
+// mod arrays;
+// mod vectors;
+mod conditionals;
 
 fn main() {
-    arrays::run();
+    conditionals::run();
 }
